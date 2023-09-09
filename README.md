@@ -1,4 +1,4 @@
-### Hi there, it's Mikhail 👋
+### Hi there, This is Mikhail 👋
 
 I'm frontend engineer with backend expertise, writing scalable, tested code since 2016 I follow SOLID
 principles and prioritize project-centric technology. I have extensive experience in code review and
